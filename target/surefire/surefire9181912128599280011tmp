@@ -1,0 +1,8 @@
+#surefire
+#Thu Aug 03 12:31:02 IST 2017
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\piyusharora\\Documents\\NetBeansProjects\\DataProviderUsingExcel
+file.encoding=UTF-8
+localRepository=C\:\\Users\\piyusharora\\.m2\\repository
+basedir=C\:\\Users\\piyusharora\\Documents\\NetBeansProjects\\DataProviderUsingExcel
+test=DataProviderClass
