@@ -2,33 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="DataProviderClass" duration-ms="46120" started-at="2017-08-03T07:43:28Z" finished-at="2017-08-03T07:44:14Z">
+  <suite name="DataProviderClass" duration-ms="39883" started-at="2017-08-03T07:51:41Z" finished-at="2017-08-03T07:52:20Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="46120" started-at="2017-08-03T07:43:28Z" finished-at="2017-08-03T07:44:14Z">
+    <test name="Command line test" duration-ms="39883" started-at="2017-08-03T07:51:41Z" finished-at="2017-08-03T07:52:20Z">
       <class name="DataProviderClass">
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderClass@3cb5cdba]" name="test" duration-ms="42753" started-at="2017-08-03T13:13:29Z" data-provider="data" finished-at="2017-08-03T13:14:12Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[piyusharora@qainfotech.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[test]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[hello]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderClass@3cb5cdba]" name="test" duration-ms="44551" started-at="2017-08-03T13:13:29Z" data-provider="data" finished-at="2017-08-03T13:14:14Z">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderClass@3cb5cdba]" name="test" duration-ms="35621" started-at="2017-08-03T13:21:42Z" data-provider="data" finished-at="2017-08-03T13:22:17Z">
           <params>
             <param index="0">
               <value>
@@ -43,6 +22,27 @@
             <param index="2">
               <value>
                 <![CDATA[hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataProviderClass@3cb5cdba]" name="test" duration-ms="38848" started-at="2017-08-03T13:21:42Z" data-provider="data" finished-at="2017-08-03T13:22:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[piyusharora@qainfotech.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hello]]>
               </value>
             </param>
           </params>

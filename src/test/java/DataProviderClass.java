@@ -22,7 +22,8 @@ public class DataProviderClass {
 
     @Test(dataProvider = "data")
     public void test(String email, String subject, String body) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\piyusharora\\Downloads\\chromedriver\\chromedriver.exe");
+        String user_dir=System.getProperty("user.dir");
+        System.setProperty("webdriver.chrome.driver", user_dir+"\\src\\test\\resource\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().window().maximize();
